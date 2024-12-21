@@ -1,0 +1,416 @@
+[
+    {
+        "sites": [
+            {
+                "name": "crazy games",
+                "url": "https://www.crazygames.com/"
+            },
+            {
+                "name": "1001 Juegos",
+                "url": "https://www.1001juegos.com/"
+            }
+        ],
+        "formats": [
+            "iframe",
+            "upload"
+        ],
+        "integration": {
+            "type": "SDK",
+            "mandatory": false,
+            "url": "https://docs.crazygames.com/"
+        },
+        "backlink": {
+            "type": "button",
+            "url": "https://developer.crazygames.com/assets",
+            "mandatory": false
+        },
+        "chat": "moderated",
+        "outboundLinks": "allowed",
+        "platforms": [
+            {
+                "type": "pc",
+                "mandatory": true
+            },
+            {
+                "type": "mobile",
+                "mandatory": false
+            }
+        ],
+        "thumbnails": [
+            "1920x1080",
+            "800x1200",
+            "800x800"
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "MSN Play",
+                "url": "https://www.msn.com/en-us/play"
+            }
+        ],
+        "formats": [
+            "iframe",
+            "upload"
+        ],
+        "integration": {
+            "type": "SDK",
+            "mandatory": true
+        },
+        "backlink": null,
+        "chat": "allowed",
+        "outboundLinks": "restricted",
+        "platforms": [
+            {
+                "type": "pc",
+                "mandatory": true
+            },
+            {
+                "type": "mobile",
+                "mandatory": false
+            }
+        ],
+        "thumbnails": [
+            "1920x1080",
+            "512x512"
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "GameDistribution",
+                "url": "https://gamedistribution.com/"
+            }
+        ],
+        "formats": [
+            "upload"
+        ],
+        "integration": {
+            "type": "SDK",
+            "mandatory": true,
+            "url": "https://gamedistribution.com/sdk"
+        },
+        "backlink": null,
+        "chat": "moderated",
+        "outboundLinks": "Prohibited",
+        "mobile": "optional",
+        "thumbnails": ["200x120","512x384","512x512","1280x720"," 1280x550"]
+    },
+    {
+        "sites": [
+            {
+                "name": "itch.io",
+                "url": "https://itch.io/"
+            }
+        ],
+        "formats": [
+            "upload"
+        ],
+        "integration": {
+            "type": "API",
+            "mandatory": false,
+            "url": "https://itch.io/docs/api/overview"
+        },
+        "backlink": {
+            "type": "widget",
+            "url": "https://itch.io/docs/creators/widget",
+            "mandatory": false
+        },
+        "chat": "allowed",
+        "outboundLinks": "allowed",
+        "platforms": [
+            {
+                "type": "pc",
+                "mandatory": false
+            },
+            {
+                "type": "mobile",
+                "mandatory": false
+            }
+        ],
+        "thumbnails": [
+            "~630x500"
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "GamePix",
+                "url": "https://www.gamepix.com/"
+            }
+        ],
+        "formats": [
+            "upload"
+        ],
+        "integration": {
+            "type": "SDK",
+            "mandatory": false,
+            "url": "https://partners.gamepix.com/developers"
+        },
+        "backlink": null,
+        "chat": "allowed",
+        "outboundLinks": "allowed",
+        "platforms": [
+            {
+                "type": "pc",
+                "mandatory": true
+            },
+            {
+                "type": "mobile",
+                "mandatory": true
+            }
+        ],
+        "thumbnails": [
+            "256x256",
+            "1360x850"
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "Play iDevGames",
+                "url": "https://play.idevgames.co.uk/"
+            }
+        ],
+        "formats": [
+            "upload"
+        ],
+        "integration": {
+            "type": "API",
+            "mandatory": false,
+            "url": "https://play.idevgames.co.uk/docs"
+        }
+    },
+    {
+        "sites": [
+            {
+                "name": "poki",
+                "url": "https://poki.com/"
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "iogames.space",
+                "url": "https://iogames.space/"
+            }
+        ],
+        "formats": [
+            "iframe"
+        ],
+        "integration": null,
+        "backlink": {
+            "type": "link",
+            "mandatory": true
+        },
+        "chat": "allowed",
+        "outboundLinks": "allowed"
+    },
+    {
+        "sites": [
+            {
+                "name": "Kevin Games",
+                "url": "https://kevin.games/"
+            }
+        ],
+        "formats": [
+            "iframe"
+        ],
+        "integration": null,
+        "backlink": {
+            "type": "link",
+            "mandatory": true
+        },
+        "chat": "allowed",
+        "outboundLinks": "allowed",
+        "thumbnails": []
+    },
+    {
+        "sites": [
+            {
+                "name": "PlayMiniGames",
+                "url": "https://playminigames.ru/"
+            }
+        ],
+        "formats": [
+            "iframe",
+            "upload"
+        ],
+        "chat": "allowed",
+        "outboundLinks": "allowed"
+    },
+    {
+        "sites": [
+            {
+                "name": "Lagged",
+                "url": "https://lagged.com/"
+            }
+        ],
+        "formats": [
+            "upload"
+        ],
+        "integration": {
+            "type": "SDK",
+            "mandatory": true,
+            "url": "https://lagged.dev/sdk"
+        }
+    },
+    {
+        "sites": [
+            {
+                "name": "SilverGames",
+                "url": "https://www.silvergames.com/en/site/submit-a-game"
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "Miniplay",
+                "url": "https://www.miniplay.com/"
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "Coolmath Games",
+                "url": "https://developers.coolmathgames.com/"
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "Albino Blackshheep",
+                "url": "https://www.albinoblacksheep.com/help/submit"
+            }
+        ],
+        "backlink": {
+            "type": "credits",
+            "mandatory": true
+        }
+    },
+    {
+        "sites": [
+            {
+                "name": "Game Jolt",
+                "url": "https://gamejolt.com/marketplace"
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "Newgrounds",
+                "url": "https://www.newgrounds.com/games"
+            }
+        ],
+        "formats": [
+            "upload"
+        ],
+        "integration": {
+            "type": "API",
+            "url": "https://www.newgrounds.io/get-started/",
+            "mandatory": false
+        }
+    },
+    {
+        "sites": [
+            {
+                "name": "Kongregate",
+                "url": "https://docs.kongregate.com/docs/uploading-your-game"
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "Jopi",
+                "url": "https://www.jopi.com/new-game-request"
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "KBHGames",
+                "url": "https://kbhgames.com/"
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "Now.gg",
+                "url": "https://now.gg/"
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "simmer.io",
+                "url": "https://simmer.io/"
+            }
+        ],
+        "formats": [
+            "upload"
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "r/WebGames",
+                "url": "https://reddit.com/r/WebGames"
+            },
+            {
+                "name": "r/freegames",
+                "url": "https://reddit.com/r/freegames"
+            },
+            {
+                "name": "r/playmygame",
+                "url": "https://reddit.com/r/playmygame"
+            },
+            {
+                "name": "r/indiegames",
+                "url": "https://reddit.com/r/indiegames"
+            },
+            {
+                "name": "r/IndieDev",
+                "url": "https://reddit.com/r/IndieDev"
+            },
+            {
+                "name": "r/IndieGaming",
+                "url": "https://reddit.com/r/IndieGaming"
+            },
+            {
+                "name": "r/webgl",
+                "url": "https://reddit.com/r/webgl"
+            },
+            {
+                "name": "r/playtesters",
+                "url": "https://reddit.com/r/playtesters"
+            },
+            {
+                "name": "r/selfpromotion",
+                "url": "https://reddit.com/r/selfpromotion"
+            }
+        ],
+        "formats": [
+            "link"
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "freegames",
+                "url": "https://discord.gg/5YtrWKX2sv"
+            }
+        ],
+        "formats": [
+            "link"
+        ]
+    }
+]
