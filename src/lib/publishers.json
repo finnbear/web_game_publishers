@@ -90,10 +90,19 @@
             "mandatory": true,
             "url": "https://gamedistribution.com/sdk"
         },
+        "platforms": [
+            {
+                "type": "pc",
+                "mandatory": true
+            },
+            {
+                "type": "mobile",
+                "mandatory": false
+            }
+        ],
         "backlink": null,
         "chat": "moderated",
         "outboundLinks": "Prohibited",
-        "mobile": "optional",
         "thumbnails": ["200x120","512x384","512x512","1280x720"," 1280x550"]
     },
     {
@@ -187,7 +196,12 @@
                 "name": "poki",
                 "url": "https://poki.com/"
             }
-        ]
+        ],
+        "integration": {
+            "type": "SDK",
+            "mandatory": true,
+            "url": "https://sdk.poki.com/"
+        }
     },
     {
         "sites": [
