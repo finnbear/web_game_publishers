@@ -10,7 +10,7 @@
 
 <div style="padding: 1rem;">
 <h1>Webgame Publishers</h1>
-<p>This list is sorted by # of known columns. Contribute on <a href="https://github.com/finnbear/web_game_publishers">GitHub</a>!</p>
+<p>This list is sorted by # of known columns. Contribute on <a target="_blank" href="https://github.com/finnbear/web_game_publishers">GitHub</a>!</p>
 <table class="table table-bordered table-striped">
     <thead>
         <tr>
@@ -36,7 +36,7 @@
                 <td>
                     <div>
                         {#each publisher.sites as site}
-                            <a href={site.url}>{site.name}</a>
+                            <a target="_blank" href={site.url}>{site.name}</a>
                         {/each}
                     </div>
                 </td>
@@ -62,7 +62,7 @@
                                 {/if}
                             {/if}
                             {#if publisher.integration.url}
-                                <a href={publisher.integration.url}>
+                                <a target="_blank" href={publisher.integration.url}>
                                     {publisher.integration.type}
                                 </a>
                             {:else}
@@ -103,7 +103,7 @@
                                 {/if}
                             {/if}
                             {#if publisher.backlink.url}
-                                <a href={publisher.backlink.url}>
+                                <a target="_blank" href={publisher.backlink.url}>
                                     {publisher.backlink.type}
                                 </a>
                             {:else}
