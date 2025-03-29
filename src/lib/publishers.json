@@ -426,5 +426,33 @@
         "formats": [
             "link"
         ]
+    },
+    {
+        "sites": [
+            {
+                "name": "realmultiplayer",
+                "url": "https://realmultiplayer.com/"
+            }
+        ],
+        "formats": [
+            "iframe"
+        ],
+        "integration": null,
+        "backlink": null,
+        "chat": "allowed",
+        "outboundLinks": "allowed",
+        "platforms": [
+            {
+                "type": "pc",
+                "mandatory": false
+            },
+            {
+                "type": "mobile",
+                "mandatory": false
+            }
+        ],
+        "thumbnails": [
+            "512x512"
+        ]
     }
 ]
