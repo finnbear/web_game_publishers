@@ -454,5 +454,13 @@
         "thumbnails": [
             "512x512"
         ]
+    },
+    {
+        "sites": [
+            {
+                "name": "Legends of Learning",
+                "url": "https://www.legendsoflearning.com/"
+            }
+        ]
     }
 ]
