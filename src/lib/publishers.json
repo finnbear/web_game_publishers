@@ -462,5 +462,13 @@
                 "url": "https://www.legendsoflearning.com/"
             }
         ]
+    },
+    {
+        "sites": [
+            {
+                "name": "play123",
+                "url": "https://www.play123.com/"
+            }
+        ]
     }
 ]
