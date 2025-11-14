@@ -470,5 +470,16 @@
                 "url": "https://www.play123.com/"
             }
         ]
+    },
+    {
+        "sites": [
+            {
+                "name": "Web Game Database",
+                "url": "https://webgamedb.com"
+            }
+        ],
+        "formats": [
+            "link"
+        ]
     }
 ]
