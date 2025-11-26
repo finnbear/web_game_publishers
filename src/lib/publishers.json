@@ -481,5 +481,21 @@
         "formats": [
             "link"
         ]
+    },
+    {
+        "sites": [
+            {
+                "name": "Arkadium",
+                "url": "https://www.arkadium.com/"
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "Yandex Games",
+                "url": "https://yandex.com/games/"
+            }
+        ]
     }
 ]
