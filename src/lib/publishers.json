@@ -497,5 +497,13 @@
                 "url": "https://yandex.com/games/"
             }
         ]
+    },
+    {
+        "sites": [
+            {
+                "name": "WebGamer",
+                "url": "https://webgamer.io/"
+            }
+        ]
     }
 ]
