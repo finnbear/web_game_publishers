@@ -458,6 +458,34 @@
     {
         "sites": [
             {
+                "name": "Play Play Game Game",
+                "url": "https://playplaygamegame.com/"
+            }
+        ],
+        "formats": [
+            "iframe"
+        ],
+        "integration": null,
+        "backlink": null,
+        "chat": "allowed",
+        "outboundLinks": "allowed",
+        "platforms": [
+            {
+                "type": "pc",
+                "mandatory": false
+            },
+            {
+                "type": "mobile",
+                "mandatory": false
+            }
+        ],
+        "thumbnails": [
+            "512x512"
+        ]
+    },
+    {
+        "sites": [
+            {
                 "name": "Legends of Learning",
                 "url": "https://www.legendsoflearning.com/"
             }
