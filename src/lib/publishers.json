@@ -543,5 +543,49 @@
                 "url": "https://playhop.com/"
             }
         ]
+    },
+    {
+        "sites": [
+            {
+                "name": "Playus",
+                "url": "https://www.playus.fun"
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "PlayPlay Games",
+                "url": "https://www.playplaygames.com/"
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "Game.Game",
+                "url": "https://game.game/"
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "FreeGames.org",
+                "url": "https://freegames.org/"
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "RoundGames",
+                "url": "https://www.roundgames.net/"
+            }.
+            {
+                "name": "Hidden4Fun",
+                "url": "https://www.hidden4fun.net/"
+            }
+        ]
     }
 ]
