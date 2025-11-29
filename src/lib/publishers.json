@@ -435,7 +435,8 @@
             }
         ],
         "formats": [
-            "iframe"
+            "iframe",
+            "link"
         ],
         "integration": null,
         "backlink": null,
@@ -463,7 +464,8 @@
             }
         ],
         "formats": [
-            "iframe"
+            "iframe",
+            "link"
         ],
         "integration": null,
         "backlink": null,
