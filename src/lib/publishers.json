@@ -533,5 +533,13 @@
                 "url": "https://webgamer.io/"
             }
         ]
+    },
+    {
+        "sites": [
+            {
+                "name": "playhop",
+                "url": "https://playhop.com/"
+            }
+        ]
     }
 ]
