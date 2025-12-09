@@ -587,5 +587,13 @@
                 "url": "https://www.hidden4fun.net/"
             }
         ]
+    },
+    {
+        "sites": [
+            {
+                "name": "PacoGames",
+                "url": "https://www.pacogames.com/"
+            }
+        ]
     }
 ]
