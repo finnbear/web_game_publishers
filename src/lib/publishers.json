@@ -595,5 +595,17 @@
                 "url": "https://www.pacogames.com/"
             }
         ]
-    }
+    },
+    {
+        "sites": [
+            {
+                "name": "Gametigo",
+                "url": "https://gametigo.com/"
+            }
+        ],
+        "formats": [
+            "iframe",
+            "upload"
+        ]
+    } 
 ]
