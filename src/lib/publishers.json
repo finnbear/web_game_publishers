@@ -607,5 +607,13 @@
             "iframe",
             "upload"
         ]
-    } 
+    },
+    {
+        "sites": [
+            {
+                "name": "Haha Games",
+                "url": "https://www.hahagames.com/"
+            }
+        ]
+    }
 ]
