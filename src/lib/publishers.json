@@ -615,5 +615,13 @@
                 "url": "https://www.hahagames.com/"
             }
         ]
+    },
+    {
+        "sites": [
+            {
+                "name": "SNOKIDO",
+                "url": "https://www.snokido.com"
+            }
+        ]
     }
 ]
