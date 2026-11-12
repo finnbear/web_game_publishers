@@ -103,7 +103,13 @@
         "backlink": null,
         "chat": "moderated",
         "outboundLinks": "Prohibited",
-        "thumbnails": ["200x120","512x384","512x512","1280x720"," 1280x550"]
+        "thumbnails": [
+            "200x120",
+            "512x384",
+            "512x512",
+            "1280x720",
+            " 1280x550"
+        ]
     },
     {
         "sites": [
@@ -622,6 +628,39 @@
                 "name": "SNOKIDO",
                 "url": "https://www.snokido.com"
             }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "name": "Gamealia",
+                "url": "https://gamealia.app/developers"
+            }
+        ],
+        "formats": [
+            "upload"
+        ],
+        "integration": {
+            "type": "SDK",
+            "mandatory": true,
+            "url": "https://gamealia.app/docs/sdk-reference"
+        },
+        "backlink": null,
+        "chat": "moderated",
+        "outboundLinks": "restricted",
+        "platforms": [
+            {
+                "type": "pc",
+                "mandatory": false
+            },
+            {
+                "type": "mobile",
+                "mandatory": false
+            }
+        ],
+        "thumbnails": [
+            "512x512",
+            "1200x630"
         ]
     }
 ]
